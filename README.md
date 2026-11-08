@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, pandas, NumPy, statsmodels, scikit-learn, XGBoost, Streamlit, time-series forecasting, quantitative finance and Kenyan/East African markets**
 
-- 📫 How to reach me **YOUR_EMAIL@example.com**
+- 📫 How to reach me **steersjohn605@gmail.com**
 
 - ⚡ Fun fact **Competitive mathematics and macroeconomics make surprisingly good partners**
 
