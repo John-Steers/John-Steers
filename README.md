@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Wekesa Mutekhele</h1>
 <h3 align="center">Data Scientist & Quant Developer | Kenya 🇰🇪</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steersjohn605-commitsE&label=Profile%20views&color=0e75b6&style=flat" alt="steersjohn605-commits" /> </p>
 
 - 🔭 I'm currently working on **macroeconomic forecasting for Kenya and algorithmic trading research for the Nairobi Securities Exchange (NSE)**
 
