@@ -35,8 +35,8 @@
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Steers&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" alt="GitHub stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=John-Steers&show_icons=true&locale=en" alt="GitHub stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&" alt="GitHub streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=John-Steers&" alt="GitHub streak" /></p>
