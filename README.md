@@ -10,7 +10,6 @@
 - 👨‍💻 Featured projects:
   - **Kenya Macro Forecasting Pipeline**: CPI inflation, KES/USD and GDP growth forecasts using ARIMA and VAR/VECM, with an interactive Streamlit dashboard
   - **NSE Algo Trading Scaffold**: factor models, HMM regime detection, pairs trading, Black-Litterman portfolio construction and XGBoost signals, fed by the macro pipeline
-  - **IMO Answer Bench**: original, rigorous competition-style math problems for testing frontier LLMs
 
 - 💬 Ask me about **Python, pandas, NumPy, statsmodels, scikit-learn, XGBoost, Streamlit, time-series forecasting, quantitative finance and Kenyan/East African markets**
 
